@@ -2,5 +2,6 @@
 
 int main(){
     printf("Hello World");
+    printf("Thay doi tren github);
     return 0;
 }
